@@ -1,5 +1,5 @@
-nginx:1.27.0
-nginx:1.26.0
+#nginx:1.27.0
+#nginx:1.26.0
 #alpine
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -10,3 +10,6 @@ nginx:1.26.0
 #prom/prometheus
 #prom/node-exporter
 #prom/mysqld-exporter
+rancher/shell:v0.1.19
+rancher/rancher
+rancher/rancher-agent
