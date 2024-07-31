@@ -12,4 +12,4 @@
 #prom/mysqld-exporter
 rancher/shell:v0.1.19
 rancher/rancher
-rancher/rancher-agent
+#rancher/rancher-agent
